@@ -32,5 +32,4 @@ Only Man in the Company
 	Only Man in the Company
 </p>
 {/body}
-{/body}
 ```
